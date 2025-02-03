@@ -1,4 +1,3 @@
-```markdown
 # Tic-Tac-Toe Game with Database Integration
 
 A Java-based Tic-Tac-Toe game with a database integration providing a competitive edge for players through detailed game history and analytics.
@@ -88,13 +87,13 @@ src/
 ## Screenshots
 
 ### Game Interface
-![Game Interface](Documents\NetBeansProjects\BP1_M10_Lutfi\img\project3.png "Tampilan Game")
+<img alt="Game Interface" src="./img/project3.png" width="700px">
 
 ### Game History
-![Game History](Documents\NetBeansProjects\BP1_M10_Lutfi\img\matches-history1.png "Histori Game")
+<img alt="Game History" src="./img/matches-history1.png" width="700px">
 
 ### Report Generation
-![Report Generation](Documents\NetBeansProjects\BP1_M10_Lutfi\img\iReport-GEN1.png "Report Generation")
+<img alt="Report Generation" src="./img/iReport-GEN1.png" width="700px">
 
 ## Future Improvements
 
