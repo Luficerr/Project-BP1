@@ -108,5 +108,3 @@ Contributions are welcome! Please create a pull request or submit issues for bug
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-Copyright &copy; 2024-2025 Lutfi Faiz Ziyadatullah. All rights reserved.
